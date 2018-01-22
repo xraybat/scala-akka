@@ -1,0 +1,17 @@
+target/
+*.class
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+out
+dist/*
+lib_managed/
+src_managed/
+project/boot/
+project/plugins/project/
+.history
+.cache
+.lib/
+project/project/
